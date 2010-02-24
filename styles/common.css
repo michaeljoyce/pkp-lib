@@ -249,10 +249,6 @@ span.heading {
 	text-transform: uppercase;
 }
 
-span.highlight {
-	border-bottom: 1px dotted #000;
-}
-
 .nowrap {
 	white-space: nowrap;
 }

@@ -65,6 +65,11 @@
 	<message key="rt.admin.sharing.logoBackgroundLabel">Logo background</message>
 	<message key="rt.admin.sharing.logoColorLabel">Logo color</message>
 
+	<message key="rt.admin.annotations">Annotations</message>
+	<message key="rt.admin.annotations.description">Enable annotations for users.</message>
+	<message key="rt.admin.annotations.basic">Basic Settings</message>
+	<message key="rt.admin.annotations.enabled">Annotations Enabled</message>
+
 	<message key="rt.admin.readingToolsEnabled">Reading tools</message>
 	<message key="rt.admin.searches.confirmDelete">Are you sure you wish to delete this Search?</message>
 	<message key="rt.admin.searches.createSearch">Create Search</message>
@@ -83,6 +88,7 @@
 	<message key="rt.admin.settings.viewMetadata">Indexing metadata (displays item's indexing metadata provided by author and system).</message>
 	<message key="rt.admin.status">Status</message>
 	<message key="rt.admin.configureSharing">Configure AddThis</message>
+	<message key="rt.admin.configureAnnotations">Configure Annotations</message>
 	<message key="rt.admin.validateUrls.complete">Validation complete.</message>
 	<message key="rt.admin.validateUrls.ok">OK</message>
 	<message key="rt.admin.validateUrls.urlIsInvalid">{$url} is not valid.</message>

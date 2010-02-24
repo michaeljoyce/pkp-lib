@@ -46,6 +46,10 @@
 	<message key="common.assigned">Assigned</message>
 	<message key="common.back">Back</message>
 	<message key="common.between">between</message>
+        <message key="common.underline.plain">plain</message>
+        <message key="common.underline.over">overline</message>
+        <message key="common.underline.through">strike through</message>
+        <message key="common.underline.blink">blink</message>
 	<message key="common.cancel">Cancel</message>
 	<message key="common.cancelled">Cancelled</message>
 	<message key="common.captchaField.altText">Validation image</message>
@@ -72,6 +76,12 @@
 	<message key="common.chooseOne">Choose One</message>
 	<message key="common.close">Close</message>
 	<message key="common.closeWindow">Close Window</message>
+        <message key="common.color.red">red</message>
+        <message key="common.color.green">green</message>
+        <message key="common.color.blue">blue</message>
+        <message key="common.color.cyan">cyan</message>
+        <message key="common.color.magenta">magenta</message>
+        <message key="common.color.yellow">yellow</message>
 	<message key="common.complete">Complete</message>
 	<message key="common.completed">Completed</message>
 	<message key="common.continue">Continue</message>
@@ -250,6 +260,7 @@
 	<message key="locale.primary">Primary locale</message>
 	<message key="locale.supported">Supported locales</message>
 	<message key="navigation.about">About</message>
+        <message key="navigation.annotationSearch">Annotation Search</message>
 	<message key="navigation.browse">Browse</message>
 	<message key="navigation.browseByTitle">By Title</message>
 	<message key="navigation.dashboard">Dashboard</message>
@@ -295,6 +306,8 @@
 	<message key="notification.unsubscribeDescription">Enter your email address and password below to unsubscribe from email notifications.  If you do not remember your password, leave the password field blank and a new one will be emailed to you at the given email address.</message>
 	<message key="notification.unsubscribeError">There was an error unsubscribing you.  Please ensure your email address and password are correct.</message>
 	<message key="notification.unsubscribeSuccess">You were successfully unsubscribed.</message>
+        <message key="search.annotationSearchFor">Search your annotations for</message>
+        <message key="search.annotationTypes">Annotation types</message>
 	<message key="search.abstract">Abstract</message>
 	<message key="search.allFields">All</message>
 	<message key="search.coverage">Coverage</message>
@@ -322,4 +335,13 @@
 	<message key="common.preview">Preview</message>
 	<message key="common.activate">Activate</message>
 	<message key="common.deactivate">Deactivate</message>
+	<message key="rt.annotations">Annotations Tools</message>
+	<message key="rt.annotations.highlights">Show higlights</message>
+	<message key="rt.annotations.underlines">Show underlines</message>
+	<message key="rt.annotations.highlight">Highlight</message>
+	<message key="rt.annotations.underline">Underline</message>
+	<message key="rt.annotations.notes">Show Notes</message>
+	<message key="rt.annotations.note">Note</message>
+        <message key="rt.annotations.bookmark">Bookmark</message>
+        <message key="rt.annotations.bookmark.directions">Click on a paragraph, list item, or table cell to create a bookmark, or click </message>
 </locale>

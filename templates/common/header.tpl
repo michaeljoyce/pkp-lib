@@ -42,6 +42,9 @@
 
 	<script type="text/javascript" src="{$baseUrl}/lib/pkp/js/general.js"></script>
 	{$additionalHeadData}
+
+    <link rel="stylesheet" href="{$baseUrl}/lib/pkp/styles/annotations.css" type="text/css" />
+
 </head>
 <body>
 <div id="container">

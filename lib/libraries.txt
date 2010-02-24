@@ -24,3 +24,8 @@ SWORD PHP API Library
  * URL: <http://php.swordapp.org>
  * Version: 0.9 (Oct 5, 2009)
  * License: Modified BSD
+ 
+IERange Implementation of W3C DOM Ranges in Internet Explorer, via Javascript
+ * URL: http://code.google.com/p/ierange/
+ * Version: m2 (Downloaded September 14, 2009)
+ * License: MIT
