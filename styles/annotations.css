@@ -1,0 +1,61 @@
+div.annotationsControls {
+    margin: 0;
+    padding: 0;
+    padding-top: 0.5em;
+    font-size: 0.7em;
+    border-top: 2px dotted #000;
+}
+
+/*
+  These are the highlight styles for annotations
+  They can be modified as necessary. Add or remove the class names
+  to templates/article/header.tpl in these lines like this (and adjust your translations as necessary:
+
+  <a class="annotation_control" href="#" onclick="newUserLemma('highlight_red'); return false;">
+    {translate key="common.color.red"}
+  </a>
+
+*/
+span.highlight_red {    background-color: #f99;}
+span.highlight_green {    background-color: #9f9;}
+span.highlight_blue {    background-color: #99f;}
+span.highlight_cyan {    background-color: #9ff;}
+span.highlight_magenta {    background-color: #f9f;}
+span.highlight_yellow {    background-color: #ff9;}
+
+/*
+    This is the default style for highlights that are hovered over.
+*/
+span.highlight_hover {  text-decoration: underline;}
+
+span.annotation_metadata {
+    color: #888;
+    font-size: smaller;
+    margin-left: 1.5em;
+    display: block;
+}
+
+.bookmark_over {
+    background-color: #fcc;
+}
+
+span.bookmark {
+    display: block;
+    position: absolute;
+    left: 10px;
+}
+
+#annotation_content {
+    background-color: #ddd;
+}
+
+#annotation_list dt, #annotation_list dd {
+    display: block;
+    float: none;
+    font-size: .7em;
+    width: 100%;
+}
+
+#annotation_list dd {
+    padding-left: 1em;
+}
