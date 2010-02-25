@@ -344,4 +344,14 @@
 	<message key="rt.annotations.note">Note</message>
         <message key="rt.annotations.bookmark">Bookmark</message>
         <message key="rt.annotations.bookmark.directions">Click on a paragraph, list item, or table cell to create a bookmark, or click </message>
+
+        <message key="rt.annotations.lemma">Highlighted text</message>
+        <message key="rt.annotations.noteContent">Note text</message>
+        <message key="rt.annotations.enterNote">Add a note</message>
+        <message key="rt.annotations.confirmDelete">Delete Note</message>
+        <message key="rt.annotations.confirmDeleteQuestion">Are you sure you wish to delete this note?</message>
+        <message key="rt.annotations.confirmLemmaDelete">Delete highlight</message>
+        <message key="rt.annotations.confirmDeleteLemmaQuestion">Are you sure you wish to delete this highlight?</message>
+        <message key="rt.annotations.warnLemmaDelete">This action cannot be undone.</message>
+
 </locale>
